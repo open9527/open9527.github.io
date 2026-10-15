@@ -1,0 +1,75 @@
+.repo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 14px;
+  margin: 1.2rem 0 0.4rem;
+}
+
+.repo-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 148px;
+  padding: 16px 16px 14px;
+  border-radius: 12px;
+  background: var(--card-bg, #fff);
+  border: 1px solid var(--card-border, rgba(0, 0, 0, 0.06));
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
+  text-decoration: none !important;
+  color: var(--font-color, #1f2d3d) !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.repo-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.08);
+  color: var(--font-color, #1f2d3d) !important;
+}
+
+.repo-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+  color: var(--secondtext, #8590a6);
+}
+
+.repo-lang {
+  color: var(--theme-color, #49b1f5);
+  font-weight: 600;
+}
+
+.repo-card h3 {
+  margin: 12px 0 8px;
+  font-size: 1.15rem;
+  border: none;
+}
+
+.repo-card p {
+  margin: 0;
+  line-height: 1.65;
+  font-size: 0.92rem;
+  opacity: 0.88;
+}
+
+a.btn-github {
+  display: inline-block;
+  margin-top: 0.6rem;
+  padding: 0.45rem 1rem;
+  border-radius: 8px;
+  background: var(--btn-bg, var(--theme-color, #49b1f5));
+  color: var(--btn-color, #fff) !important;
+  text-decoration: none !important;
+  transition: opacity 0.2s ease;
+}
+
+a.btn-github:hover {
+  opacity: 0.88;
+  color: var(--btn-color, #fff) !important;
+}
+
+#post .btn-github,
+#page .btn-github {
+  background: var(--theme-color, #49b1f5);
+  color: #fff !important;
+}

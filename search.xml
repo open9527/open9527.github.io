@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>open_flutter</title>
+      <link href="/posts/open-flutter/"/>
+      <url>/posts/open-flutter/</url>
+      
+        <content type="html"><![CDATA[<p>新开的 Flutter 工程，仓库刚刚初始化，后面会把要做的东西往里放。</p><p><a class="btn-github" href="https://github.com/open9527/open_flutter" target="_blank" rel="noopener">在 GitHub 查看</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Flutter </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Dart </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>OpenProject</title>
+      <link href="/posts/open-project/"/>
+      <url>/posts/open-project/</url>
+      
+        <content type="html"><![CDATA[<p>做 Android 时攒下来的代码和工程实践。仓库以 Java 为主，也有一部分 Kotlin，另外还有少量 Groovy、JavaScript 和 C++。</p><p><a class="btn-github" href="https://github.com/open9527/OpenProject" target="_blank" rel="noopener">在 GitHub 查看</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Android </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Kotlin </tag>
+            
+            <tag> Java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>OpenUnit</title>
+      <link href="/posts/open-unit/"/>
+      <url>/posts/open-unit/</url>
+      
+        <content type="html"><![CDATA[<p>用来起一个新工程的 Kotlin 项目，作为一个干净的起点，后面的功能可以往上加。</p><p><a class="btn-github" href="https://github.com/open9527/OpenUnit" target="_blank" rel="noopener">在 GitHub 查看</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Android </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Kotlin </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>rammus</title>
+      <link href="/posts/rammus/"/>
+      <url>/posts/rammus/</url>
+      
+        <content type="html"><![CDATA[<p>Flutter 侧的阿里云推送插件。原生部分是 Objective-C，给 Flutter 工程接推送时可以直接用。</p><p><a class="btn-github" href="https://github.com/open9527/rammus" target="_blank" rel="noopener">在 GitHub 查看</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Flutter </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Dart </tag>
+            
+            <tag> 插件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>traffic_flutter</title>
+      <link href="/posts/traffic-flutter/"/>
+      <url>/posts/traffic-flutter/</url>
+      
+        <content type="html"><![CDATA[<p>Flutter 插件，原生侧用 Java 实现，给 Flutter 工程补 traffic 相关能力。</p><p><a class="btn-github" href="https://github.com/open9527/traffic_flutter" target="_blank" rel="noopener">在 GitHub 查看</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Flutter </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Dart </tag>
+            
+            <tag> 插件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>um_share</title>
+      <link href="/posts/um-share/"/>
+      <url>/posts/um-share/</url>
+      
+        <content type="html"><![CDATA[<p>Flutter 侧的友盟分享插件，把分享能力接到 Flutter 工程里。</p><p><a class="btn-github" href="https://github.com/open9527/um_share" target="_blank" rel="noopener">在 GitHub 查看</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Flutter </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Dart </tag>
+            
+            <tag> 插件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>notejs</title>
+      <link href="/posts/notejs/"/>
+      <url>/posts/notejs/</url>
+      
+        <content type="html"><![CDATA[<p>用 JavaScript 写的模拟接口，本地对页面或客户端数据时不用先等后端。</p><p><a class="btn-github" href="https://github.com/open9527/notejs" target="_blank" rel="noopener">在 GitHub 查看</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> JavaScript </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>OpenAndroid</title>
+      <link href="/posts/open-android/"/>
+      <url>/posts/open-android/</url>
+      
+        <content type="html"><![CDATA[<p>一个 Android 工程，语言是 Java 和 Kotlin，用来把原生这边的结构先搭起来。</p><p><a class="btn-github" href="https://github.com/open9527/OpenAndroid" target="_blank" rel="noopener">在 GitHub 查看</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Android </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Kotlin </tag>
+            
+            <tag> Java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ASTemplate</title>
+      <link href="/posts/astemplate/"/>
+      <url>/posts/astemplate/</url>
+      
+        <content type="html"><![CDATA[<p>Android Studio 工程模板。新开 Kotlin 项目时可以直接基于这个模板创建，少做一遍重复配置。</p><p><a class="btn-github" href="https://github.com/open9527/ASTemplate" target="_blank" rel="noopener">在 GitHub 查看</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Android </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Kotlin </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
